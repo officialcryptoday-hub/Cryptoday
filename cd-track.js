@@ -18,7 +18,7 @@
 (function(){
   var CONFIG = {
     META_PIXEL_ID: "2301347517343812",   // Meta Pixel "Cryptoday 2026 NEW"
-    GA4_ID:        "",                   // contoh: "G-ABC123XYZ" (Google Analytics 4)
+    GA4_ID:        "G-FVB9JLMVW5",       // Google Analytics 4 "Cryptoday LP"
     CLARITY_ID:    "",                   // opsional: Microsoft Clarity (heatmap + rekaman scroll, gratis)
     DEBUG:         /[?&]cdtrack_debug=1/.test(location.search)
   };
